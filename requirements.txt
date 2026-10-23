@@ -1,0 +1,9 @@
+
+
+kafka-python==3.0.11
+pyspark==3.5.5
+minio
+python-dotenv
+
+
+
